@@ -1,7 +1,7 @@
 <?php
 /**
  * WHMCS Language File
- * Traditional Chinese (zh_TW)
+ * Simplified Chinese (zh_CN)
  *
  * Please Note: These language files are overwritten during software updates
  * and therefore editing of these files directly is not advised. Instead we
@@ -21,18 +21,18 @@
 
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
 
-$_LANG['locale'] = "zh_TW";
+$_LANG['locale'] = "zh_CN";
 
-$_LANG['accountinfo'] = "帳戶資訊";
-$_LANG['accountstats'] = "帳戶統計";
-$_LANG['addfunds'] = "加值";
-$_LANG['addfundsamount'] = "儲值金額";
-$_LANG['addfundsmaximum'] = "單次儲值金額上限";
-$_LANG['addfundsmaximumbalance'] = "餘額上限";
-$_LANG['addfundsmaximumbalanceerror'] = "餘額上限為";
-$_LANG['addfundsmaximumerror'] = "單次儲值金額上限為";
-$_LANG['addfundsminimum'] = "儲值金額下限";
-$_LANG['addfundsminimumerror'] = "儲值金額下限為";
+$_LANG['accountinfo'] = "账户信息";
+$_LANG['accountstats'] = "账户统计";
+$_LANG['addfunds'] = "账户充值";
+$_LANG['addfundsamount'] = "充值金额";
+$_LANG['addfundsmaximum'] = "单次充值金额上限";
+$_LANG['addfundsmaximumbalance'] = "余额上限";
+$_LANG['addfundsmaximumbalanceerror'] = "余额上限为";
+$_LANG['addfundsmaximumerror'] = "单次充值金额上限为";
+$_LANG['addfundsminimum'] = "充值金额下限";
+$_LANG['addfundsminimumerror'] = "充值金额下限为";
 $_LANG['addmore'] = "加入更多";
 $_LANG['addtocart'] = "加入購物車";
 $_LANG['affiliatesactivate'] = "啟用推廣帳戶";
